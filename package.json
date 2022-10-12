@@ -9,16 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IanCVal94/resume.git"
+    "url": "git+https://github.com/IanCVal94/resume3.0.git"
   },
-  "author": "",
+  "author": "Ian Valderas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IanCVal94/resume/issues"
+    "url": "https://github.com/IanCVal94/resume3.0/issues"
   },
-  "homepage": "https://github.com/IanCVal94/resume#readme",
+  "homepage": "https://github.com/IanCVal94/resume3.0#readme",
   "dependencies": {
     "express": "^4.17.1",
     "path": "^0.12.7"
-  }
+  },
+  "devDependencies": {}
 }
