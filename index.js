@@ -29,4 +29,4 @@ app.listen(PORT);
 //git add .
 //git commit -m "message to relay the notes of the update"
 //git push
-//attempt change
+//do npm start in command terminal to get running unless already running
