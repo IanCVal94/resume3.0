@@ -5285,3 +5285,7 @@ a.credit {
 /* Common Style */
 .section {
   padding-bottom: 0; }
+
+.coursework{
+  padding: 0px auto auto auto;
+}
