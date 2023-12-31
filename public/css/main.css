@@ -5036,7 +5036,7 @@ Created using IcoMoon - icomoon.io
 .gallery figure.cc-effect figcaption::after {
   position: absolute;
   content: '';
-  opacity: 0; }
+  opacity: 1; }
 
 .gallery figure.cc-effect figcaption::before {
   top: 10px;
