@@ -5009,7 +5009,7 @@ Created using IcoMoon - icomoon.io
 
 .gallery .cc-porfolio-image figure figcaption {
   position: absolute;
-  color: #3ea1ec;
+  color: #fff;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden; }
 
@@ -5095,7 +5095,7 @@ Created using IcoMoon - icomoon.io
   transform: scale(1); }
 
 .gallery figure.cc-effect:hover figcaption:before {
-  background: rgba(27, 23, 23, 0.5); }
+  background: rgba(27, 23, 23, 0.8); }
 
 .gallery figure.cc-effect:hover .h4,
 .gallery figure.cc-effect:hover p,
