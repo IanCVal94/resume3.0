@@ -5009,9 +5009,9 @@ Created using IcoMoon - icomoon.io
 
 .gallery .cc-porfolio-image figure figcaption {
   position: absolute;
-  color: #fff;
+  color: #3ea1ec;
   -webkit-backface-visibility: hidden;
-  backface-visibility: visible; }
+  backface-visibility: hidden; }
 
 .gallery .cc-porfolio-image figure figcaption,
 .gallery .cc-porfolio-image figure figcaption > a {
