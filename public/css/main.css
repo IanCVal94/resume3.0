@@ -5057,7 +5057,7 @@ Created using IcoMoon - icomoon.io
 .gallery figure.cc-effect .h4 {
   margin-top: 25%;
   transition: transform 0.35s;
-  opacity: 0; }
+  opacity: 1; }
   @media (max-width: 480px) {
     .gallery figure.cc-effect .h4 {
       font-size: 14px; } }
@@ -5073,7 +5073,7 @@ Created using IcoMoon - icomoon.io
   text-transform: uppercase;
   letter-spacing: 1px;
   transition: transform 0.35s;
-  opacity: 0; }
+  opacity: 1; }
 
 .gallery figure.cc-effect img,
 .gallery figure.cc-effect .h4 {
