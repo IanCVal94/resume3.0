@@ -5010,7 +5010,7 @@ Created using IcoMoon - icomoon.io
 .gallery .cc-porfolio-image figure figcaption {
   position: absolute;
   color: #fff;
-  -webkit-backface-visibility: hidden;
+  /*-webkit-backface-visibility: hidden;*/
   backface-visibility: hidden; }
 
 .gallery .cc-porfolio-image figure figcaption,
@@ -5036,7 +5036,7 @@ Created using IcoMoon - icomoon.io
 .gallery figure.cc-effect figcaption::after {
   position: absolute;
   content: '';
-  opacity: 1; }
+  opacity: 0; }
 
 .gallery figure.cc-effect figcaption::before {
   top: 10px;
@@ -5057,7 +5057,7 @@ Created using IcoMoon - icomoon.io
 .gallery figure.cc-effect .h4 {
   margin-top: 25%;
   transition: transform 0.35s;
-  opacity: 1; }
+  opacity: 0; }
   @media (max-width: 480px) {
     .gallery figure.cc-effect .h4 {
       font-size: 14px; } }
@@ -5073,7 +5073,7 @@ Created using IcoMoon - icomoon.io
   text-transform: uppercase;
   letter-spacing: 1px;
   transition: transform 0.35s;
-  opacity: 1; }
+  opacity: 0; }
 
 .gallery figure.cc-effect img,
 .gallery figure.cc-effect .h4 {
