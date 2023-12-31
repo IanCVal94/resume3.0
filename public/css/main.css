@@ -5010,8 +5010,8 @@ Created using IcoMoon - icomoon.io
 .gallery .cc-porfolio-image figure figcaption {
   position: absolute;
   color: #fff;
-  /*-webkit-backface-visibility: hidden;*/
-  backface-visibility: hidden; }
+  -webkit-backface-visibility: hidden;
+  backface-visibility: visible; }
 
 .gallery .cc-porfolio-image figure figcaption,
 .gallery .cc-porfolio-image figure figcaption > a {
